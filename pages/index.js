@@ -25,8 +25,8 @@ export default function Index({ gson, lastUpdate, preview }) {
       <section id='section-table'>
         <div className='header-bar'>
           <Item
-            pic={'inv_misc_monsterhead_04.jpg'}
-            id={6657}
+            pic={'inv_sword_38.jpg'}
+            id={10847}
             total={table.ally.total.sumTotal + table.horde.total.sumTotal}
             current={table.ally.current.sumTotal + table.horde.current.sumTotal}
           />
