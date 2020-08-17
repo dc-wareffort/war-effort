@@ -1,8 +1,8 @@
 {
   "devFiles": [],
   "lowPriorityFiles": [
-    "static/pRdIwzi2TmPc5G0EG34jb/_buildManifest.js",
-    "static/pRdIwzi2TmPc5G0EG34jb/_ssgManifest.js"
+    "static/TvTUYbFbEKvX-0snrxUE4/_buildManifest.js",
+    "static/TvTUYbFbEKvX-0snrxUE4/_ssgManifest.js"
   ],
   "pages": {
     "/": [
@@ -13,7 +13,7 @@
     "/_app": [
       "static/runtime/webpack-c212667a5f965e81e004.js",
       "static/chunks/framework.c6faae2799416a6da8e8.js",
-      "static/chunks/9752d80ad8fc689fdc48e9d8bdb61f5a0e53e811.113f3806a5116aa31721.js",
+      "static/chunks/1beb1c27254bf70dc0a25a722bae0153e7697ea6.113f3806a5116aa31721.js",
       "static/runtime/main-5ff7416137443ff9356a.js"
     ],
     "/_error": [
