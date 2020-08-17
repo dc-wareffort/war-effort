@@ -10,7 +10,7 @@ export default class Hero extends Component {
         <section id='hero'>
           <h1>AQ War Effort</h1>
           <h3>Dragon's Call</h3>
-          <h4>Last Updated: {this.props.date}</h4>
+          <h3>War Effort abgeschlossen um 08:46 Uhr, 17.08.2020</h3>
         </section>
       </Fragment>
     );
